@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(88, 54, 221);
+    margin: 0 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: red;
+}
+
+.subtitle{
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
+.subtitle2{
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+table{
+    width:100%;
+    margin-top: 20px;
+}
+td,th{
+    border: 2px solid black;
+    padding: 6px 7px;
+    text-align: center;
+    font-size: 15px;
+
+}
+.Lunch{
+    background-color: burlywood;
+}
+.days{
+    background-color: darkcyan;
+}
+.T{
+    background-color: wheat;
+}
+
+.WorkHour{
+    background-color: white;
+}
